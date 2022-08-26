@@ -8,3 +8,8 @@ string = email
 string = profissao
 string = idade
 string = lugar
+console.log (nome)
+console.log (email)
+console.log (profissao)
+console.log (idade)
+console.log (lugar)
