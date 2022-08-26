@@ -1,0 +1,5 @@
+let nome = "larissa"
+let email = "lari.cissa@hotmail.com"
+let profissao = "administradora"
+let idade = "26"
+let viagemdossonhos = "Peru" 
